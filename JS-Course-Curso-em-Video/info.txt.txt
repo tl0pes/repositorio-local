@@ -1,0 +1,1 @@
+This exercices were made during the Javascript course by "Curso em Video" youtube channel.
